@@ -1,0 +1,41 @@
+.header{
+    width: 100vw;
+    height: 10vh;
+    background-color:black;
+    color:white;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    font: size 32px;
+}
+.bookstore{
+    width: 100vw;
+    height: 74vh;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    flex-wrap:wrap;
+}
+.navbar{
+    width: 100vw;
+    height: 10vh;
+    background-color:black;
+    color:white;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
+.home{
+    width: 100vw;
+    height: 84vh;
+    
+}
+.footer{
+    width: 100vw;
+    height: 6vh;
+    background-color:black;
+    color:white;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
